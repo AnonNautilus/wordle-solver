@@ -7,3 +7,6 @@ __pycache__/
 # Environments
 env/
 venv/
+.vscode/
+# OS generated files
+.DS_Store
